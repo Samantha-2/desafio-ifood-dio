@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Projeto - Aplicação Ifood Clone Mobile React Native
+# Projeto - Aplicação Ifood  Mobile React Native
 
 </div>
 
